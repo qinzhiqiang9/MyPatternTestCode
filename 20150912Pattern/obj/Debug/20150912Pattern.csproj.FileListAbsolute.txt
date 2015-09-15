@@ -1,0 +1,6 @@
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\bin\Debug\20150912Pattern.exe.config
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\obj\Debug\20150912Pattern.csprojResolveAssemblyReference.cache
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\bin\Debug\20150912Pattern.exe
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\bin\Debug\20150912Pattern.pdb
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\obj\Debug\20150912Pattern.exe
+d:\my documents\visual studio 2013\Projects\20150912Pattern\20150912Pattern\obj\Debug\20150912Pattern.pdb
